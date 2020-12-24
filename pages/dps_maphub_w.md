@@ -77,8 +77,25 @@ Below are the steps to follow when publishing an AGO application:
 
 **Metadata is required in 2 places for AGO content:**  BCDC, and AGO item details pages.
 + **AGO item details pages:**
-	+ Documentation for completing AGO item details pages available in the _Public Publication Requests > Content Publication Guidelines_ section on the [B.C. Map Hub website](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/web-based-mapping/agol).
-	+ The [_AGO SPECIFIC METADATA REQUIREMENTS_](#ago-specific-metadata-requirements) section below details metadata requirements for specific types of AGO items.
+	+ The [_AGO SPECIFIC METADATA REQUIREMENTS_](#ago-specific-metadata-requirements) section below details metadata requirements for specific types of AGO items.  The table illustrates scenarios where your AGO item may not require its own BCDC record. 
+	+ **Title:** Ensure the title accurately describes the item.
+	+ **Description section:** 
+		+ **If your item requires its own BCDC record**, in the interest of minimizing duplication of effort and ongoing maintenance, the minimum requirement is to reference the item's BCDC record i.e. 
+			+ BC Data Catalogue metadata: [permalink URL to bcdc record]).
+		+ **If your item does not require its own BCDC record**
+			+ **Maps and Apps that are components of a main app** - include a statement that drives the audience to the main app by including the url for the main app and reference the main app's BCDC record i.e.
+				+ This item is a component of "Main App's name", please visit it here: [link to main app]
+			+ **Data that you have clipped or extracted from an existing public BCGW layer** - ensure you describe any enhancements you've made to the data, its update cycle, and intended use.  Include a reference to the source data's BCDC record i.e. BC Data Catalogue metadata for source data: [permalink URL to bcdc record]).
+			+ **Data from an external source** - ensure you describe any enhancements you've made to the data, its update cycle, and intended use.  Include a statement that identifies the source.  Ensure there are no license or user agreements that preclude publishing the data.
+	+ **Summary:**  A brief description of the item.
+	+ **Tags:** Include keywords that describe your content and enable audience to find your item when they search for such words. Ask yourself if you were looking for this item, what words would you use to search for it?  Must include "British Columbia" and "Canada".
+	+ **Credits:** Include the Sub-Organization from the BCDC Record.  This is found immediately below the Title.  For example, if DataBC is the Sub-Organization, use "Published by the Ministry of Citizens Services - DataBC Program".
+	+ **Terms of Use:** 
+		+ The B.C. Map Hub and associated materials, including map applications ("Maps"), trade-marks and official marks (collectively, "Materials"), are owned or used under license by the Province of British Columbia ("Province") and are protected by copyright and trade-mark laws. Please see the Disclaimer for further details.
+
+The Province does not collect, use or disclose personal information through the ArcGIS Online website. Please be aware, however, that IP addresses are collected by Esri and are stored on Esri's servers located outside of Canada. For further information, including the purposes for which your IP address is collected, please see Esri's Privacy Policy at: https://www.esri.com/legal/privacy. By accessing or using the B.C. Map Hub, you consent, effective as of the date of such access or use, to Esri storing and accessing your IP address outside of Canada for the purposes described in Esri's Privacy Policy. Should you have any questions about the collection of your IP address, please contact BCGov AGOL CONTACT at Data@gov.bc.ca, PO BOX 9864 STN PROV GOVT, Victoria BC  V8W 9T5
+
+	+ **Thumbnail:**
 
 + **BCDC**
 	+ All public facing AGO hosted content (data, maps, apps) requires a metadata record in the BC Data Catalogue.  The exception to this is when the AGO content is not **stand-alone** and is only a component of a main/parent public-facing app. In this case only the main/parent application requires a BCDC metadata record.
