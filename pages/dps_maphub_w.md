@@ -19,8 +19,8 @@ This page is written in the context that you have reviewed all information in th
 
 -----------------------
 ## Table of Contents
-+ [**B.C.'s MAP HUB - PUBLICATION WORKFLOW**](#bcs-map-hub---publishing-workflow)
-+ [**BC DATA CATALOGUE METADATA GUIDELINES FOR AGO AUTHORS**](#bc-data-catalogue-metadata-guidelines-for-ago-authors)
++ [**B.C.'s MAP HUB - PUBLICATION WORKFLOW**](#bcs-map-hub---publication-workflow)
++ [**METADATA GUIDELINES FOR AGO AUTHORS**](#metadata-guidelines-for-ago-authors)
 	+ [Custodianship](#custodianship)
 	+ [Metadata](#metadata)
 	+ [AGO-Specific Metadata Requirements](#ago-specific-metadata-requirements)
@@ -46,7 +46,7 @@ Below are the steps to follow when publishing an AGO application:
 1. At the beginning of the project, you need to be aware of the process to share the content to the public, which includes requirements for [_BC Data Catalogue_](https://catalogue.data.gov.bc.ca/dataset) (BCDC) metadata record(s).
 		1. You need to have editing privileges in the BC Data Catalogue so you are able to create BCDC metadata record(s) for each of your AGO items that needs one.
 1. Create AGO content in [_B.C.’s Map Hub_](https://governmentofbc.maps.arcgis.com/home/index.html).
-1. Create Metadata - required in 2 places - BC Data Catalogue and AGO item details pages. Refer to the [_BC DATA CATALOGUE METADATA GUIDELINES FOR ArcGIS ONLINE AUTHORS_](#bc-data-catalogue-metadata-guidelines-for-ago-authors) section below for more detailed information.:
+1. Create Metadata - required in 2 places - BC Data Catalogue and AGO item details pages. Refer to the [_METADATA GUIDELINES FOR AGO AUTHORS_](#metadata-guidelines-for-ago-authors) section below for more detailed information.:
 	+  BC Data Catalogue
 		1. **Create BCDC metadata record(s)** for the AGO content (only for items that require it; i.e. apps, standalone web maps, AGO hosted feature layers…)
 		1. When BCDC records are complete and ready to publish you, the editor/author, must toggle the record state from Draft to Pending Publish (a flag for us that the metadata is ready for follow up).
@@ -56,7 +56,7 @@ Below are the steps to follow when publishing an AGO application:
 1. **Sumit the approved checklist** to complete the publication process, via email **to** [_data@gov.bc.ca_](mailto:data@gov.bc.ca) and **cc** [_Maps Services_](mailto:datamaps@gov.bc.ca).
 ---------------------
 
-## BC DATA CATALOGUE METADATA GUIDELINES FOR AGO AUTHORS
+## METADATA GUIDELINES FOR AGO AUTHORS
 
 ### Custodianship
 
