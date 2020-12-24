@@ -94,7 +94,7 @@ Below are the steps to follow when publishing an AGO application:
 	+ **Terms of Use:** In most cases content will be published under Copyright/Access Only licencing unless you have data that you have licensed under Open Government License - British Columbia (OGL) (see xxx for information about getting data licensed under OGL)
 		+ **for Copyright/Access Only content**, use the following paragaphs (copy/paste):
 		
-			The content provided by this item is [Copyright ©, Province of British Columbia.](https://www2.gov.bc.ca/gov/content/home/copyright) All rights reserved.  
+			The content provided by this item is [Copyright ©, Province of British Columbia.](https://www2.gov.bc.ca/gov/content/home/copyright) All rights reserved. 
 
 			The B.C.'s Map Hub and associated materials, including map applications ("Maps"), trade-marks and official marks (collectively, "Materials"), are owned or used under license by the Province of British Columbia ("Province") and are protected by copyright and trade-mark laws. Please see the Disclaimer for further details.
 
@@ -108,7 +108,7 @@ Below are the steps to follow when publishing an AGO application:
 
 			The Province does not collect, use or disclose personal information through the ArcGIS Online website. Please be aware, however, that IP addresses are collected by Esri and are stored on Esri's servers located outside of Canada. For further information, including the purposes for which your IP address is collected, please see Esri's Privacy Policy at: https://www.esri.com/legal/privacy. By accessing or using the B.C. Map Hub, you consent, effective as of the date of such access or use, to Esri storing and accessing your IP address outside of Canada for the purposes described in Esri's Privacy Policy. Should you have any questions about the collection of your IP address, please contact BCGov AGOL CONTACT at Data@gov.bc.ca, PO BOX 9864 STN PROV GOVT, Victoria BC  V8W 9T5
 
-	+ **Thumbnail:**
+	+ **Thumbnail:** (optional)  Replace the default thumbnail for the item with a photo or screenshot of the map/app/data. PowerPoint can also be a useful tool for creating a nifty thumbnail image representing your content.  Highly recommend replacing the default thumbnail for your main app.
 
 + **BCDC**
 	+ All public facing AGO hosted content (data, maps, apps) requires a metadata record in the BC Data Catalogue.  The exception to this is when the AGO content is not **stand-alone** and is only a component of a main/parent public-facing app. In this case only the main/parent application requires a BCDC metadata record.
