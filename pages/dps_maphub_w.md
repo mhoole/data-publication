@@ -91,7 +91,7 @@ Below are the steps to follow when publishing an AGO application:
 	+ **Summary:**  A brief description of the item.
 	+ **Tags:** Include keywords that describe your content and enable audience to find your item when they search for such words. Ask yourself if you were looking for this item, what words would you use to search for it?  Must include "British Columbia" and "Canada".
 	+ **Credits:** Include the Sub-Organization from the BCDC Record.  This is found immediately below the Title.  For example, if DataBC is the Sub-Organization, use "Published by the Ministry of Citizens Services - DataBC Program".
-	+ **Terms of Use:** In most cases content will be published under Copyright/Access Only licencing unless you have data that you have licensed under Open Government License - British Columbia (OGL) (see xxx for information about getting data licensed under OGL)
+	+ **Terms of Use:** In most cases AGO content will initially be published under Copyright/Access Only licencing unless you have data that you have already licensed under Open Government License - British Columbia (OGL).  We encourage clients to consider providing data under OGL. For more information about the process to license your data under OGL see [Open Data](https://bcgov.github.io/data-publication/pages/open_data.html)
 		+ **for Copyright/Access Only content**, use the following paragaphs (copy/paste):
 		
 			The content provided by this item is [Copyright ©, Province of British Columbia.](https://www2.gov.bc.ca/gov/content/home/copyright) All rights reserved. 
