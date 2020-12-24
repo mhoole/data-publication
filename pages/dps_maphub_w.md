@@ -76,8 +76,15 @@ Below are the steps to follow when publishing an AGO application:
 ### Metadata
 
 **Metadata is required in 2 places for AGO content:**  BCDC, and AGO item details pages.
-+ **AGO item details pages:**
++ **BCDC**
 	+ The [_AGO SPECIFIC METADATA REQUIREMENTS_](#ago-specific-metadata-requirements) section below details metadata requirements for specific types of AGO items.  The table illustrates scenarios where your AGO item may not require its own BCDC record. 
+	+ All public facing AGO hosted content (data, maps, apps) requires a metadata record in the BC Data Catalogue.  Exceptions to this include:
+		+ when the AGO maps/app is not "stand-alone" and is only a component of a main/parent public-facing app. In this case only the main/parent application requires a BCDC metadata record
+		+ when the AGO hosted data is a copy or subset of an existing provincial layer that already has a BCDC record
+		+ when the source is from by an external source
+	+ For additional information on metadata, refer to the BCDC Standards and Guidelines and Publication Workflow pages in the [Documentation Review](#documentation-review) section above.
+
++ **AGO item details pages:**
 	+ **Title:** Ensure the title accurately describes the item.
 	+ **Description section:** 
 		+ **If your item requires its own BCDC record:** - in the interest of minimizing duplication of effort and ongoing maintenance, the minimum requirement is to reference the item's BCDC record i.e. 
@@ -110,9 +117,6 @@ Below are the steps to follow when publishing an AGO application:
 
 	+ **Thumbnail:** (optional)  Replace the default thumbnail for the item with a photo or screenshot of the map/app/data. PowerPoint can also be a useful tool for creating a nifty thumbnail image representing your content.  Highly recommend replacing the default thumbnail for your main app.
 
-+ **BCDC**
-	+ All public facing AGO hosted content (data, maps, apps) requires a metadata record in the BC Data Catalogue.  The exception to this is when the AGO content is not **stand-alone** and is only a component of a main/parent public-facing app. In this case only the main/parent application requires a BCDC metadata record.
-	+ For additional information on metadata, refer to the BCDC Standards and Guidelines and Publication Workflow pages in the [Documentation Review](#documentation-review) section above.
 
 ### AGO-Specific Metadata Requirements
 
